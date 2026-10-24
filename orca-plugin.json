@@ -6,6 +6,7 @@
   "version": "2.0.0",
   "execution": "data",
   "description": "A quiet dark theme tuned for long coding sessions.",
+  "license": "MIT",
   "repository": "https://github.com/stablyai/orca-midnight-theme",
   "engines": {
     "orca": ">=1.4.233"
